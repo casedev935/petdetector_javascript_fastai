@@ -10,7 +10,7 @@
 ## How to Run
 
 - Check out the Huggingface page [here](https://huggingface.co/spaces/casedev/petdetector)
-- Check out the Github page [here](https://casedev935.github.io/fastai02_petdetector_javascript/)
+- Check out the Github page [here](https://casedev935.github.io/petdetector_javascript_fastai/)
 - Or just run locally clicking in _petdetector.html_
 
 ## Technologies used
